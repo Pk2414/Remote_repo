@@ -8,5 +8,4 @@ for k,v in em_details.items():
         print(min(v))
         print(max(v))
         print(sum(v))
-        if v==25000:
-          print(index(v))
+        print(max(v))
